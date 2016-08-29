@@ -123,7 +123,7 @@ class UrbanWithNavBar extends Component {
     R : '',
     G : '',
     B : '',
-    Color : "rgb(100,82,57)"
+    Color : "rgb(23, 129, 217)"
   }
 
 
